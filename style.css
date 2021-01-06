@@ -1,0 +1,99 @@
+body, h1{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.section{
+    height: 700px;
+}
+.half-width{
+    width: 40%;
+    padding: 5%;
+    float: left;
+}
+.half-width h1{
+    font-size: 48px;
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #f0b914, #ff5900 );
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.half-width img{
+    width: 100%;
+}
+.one-third{
+    width:25%;
+    float: left;
+    padding: 1%;
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: white;
+}
+.one-third img{
+    width: 100%;
+}
+.section-three{
+    padding: 5% 10%;
+    height: 500px;
+    background-color: #e5e5e5;
+}
+.section-three h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.section-four{
+    width: 80%;
+    height: 267px;
+    background-image: url("images/\/Group_33094_1.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin: 10%;
+}
+.section-four h2{
+    text-align: center;
+    font-size: 44px;
+    color: white;
+}
+.section-four a{
+    margin-left: 250px;
+}
+.div-margin{
+    margin-top: 60px;
+}
+.section-five{
+    text-align: center;
+}
+.section-five img{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.extra-section{
+    text-align: center;
+    padding: 7% 10% 30% 10%;
+    background-color: #b9b6b6;
+}
+#span-extra{
+    color: #fcfcfc;
+}
+.extra-section div{
+    height: 200px;
+}
+.extra-top-margin{
+    margin-top: 30px;
+}
+#extra-one{
+    background-color: rgb(107, 107, 218);
+}
+#extra-two{
+    background-color: rgb(107, 107, 218);
+}
+#extra-three{
+    background-color: rgb(107, 107, 218);
+}
