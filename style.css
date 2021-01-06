@@ -76,13 +76,16 @@ a{
 }
 .extra-section{
     text-align: center;
+    border-radius: 100px 15px 100px 15px;
     padding: 7% 10% 30% 10%;
-    background-color: #b9b6b6;
+    background-color: #b782cc;
+    background-image: url("images/282-2826761_a-better-weigh-bubbles-background-a-better-weigh.png");
 }
 #span-extra{
     color: #fcfcfc;
 }
 .extra-section div{
+    font-weight: 700;
     height: 200px;
 }
 .extra-top-margin{
@@ -90,10 +93,16 @@ a{
 }
 #extra-one{
     background-color: rgb(107, 107, 218);
+    background-image: url("images/CPJ1S2-paint-splatter-background.png");
+    background-repeat: no-repeat;
 }
 #extra-two{
     background-color: rgb(107, 107, 218);
+    background-image: url("images/CPJ1S2-paint-splatter-background.png");
+    background-repeat: no-repeat;
 }
 #extra-three{
     background-color: rgb(107, 107, 218);
+    background-image: url("images/CPJ1S2-paint-splatter-background.png");
+    background-repeat: no-repeat;
 }
